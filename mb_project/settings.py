@@ -25,7 +25,7 @@ SECRET_KEY = '$kgf(^x3ps4y1jlvos**@5brneex%u_n27eoodrxs*$7#2*ux@'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
